@@ -4,8 +4,8 @@ export default function Page1Component() {
       <button
         className="px-8 py-3 rounded-lg font-bold text-lg tracking-tight transition-opacity hover:opacity-90 active:opacity-80 cursor-pointer"
         style={{
-          backgroundColor: "#8B5CF6",
-          color: "#FFFFFF",
+          backgroundColor: "#FACC15",
+          color: "#160032",
           fontFamily: "'Space Grotesk', sans-serif",
         }}
       >
